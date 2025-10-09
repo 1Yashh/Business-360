@@ -56,7 +56,7 @@ The dashboard provides:
 - SQL database file (`.sql`) – original data provided as source.  
 - Power Query transformations – data cleaning and ETL steps inside Power BI.
 
-- 🔗 [Download Power BI Project (Google Drive)]([YOUR-LINK-HERE](https://drive.google.com/file/d/1GYlwJxiEfM2DaFqO9cdjtdxP3EQYYzD4/view?usp=sharing))
+- 🔗 [Download Power BI Project (Google Drive)]([(https://drive.google.com/file/d/1GYlwJxiEfM2DaFqO9cdjtdxP3EQYYzD4/view?usp=sharing))
 
 
 ---
