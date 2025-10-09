@@ -58,7 +58,24 @@ The dashboard provides:
 
 🔗 [Download Power BI Project (Google Drive)](https://drive.google.com/uc?export=download&id=1GYlwJxiEfM2DaFqO9cdjtdxP3EQYYzD4)
 
+---
 
+## 📊 Dashboard Preview  
+
+### 🏠 Overview Page  
+![Overview](Overview.png)  
+
+### 💰 Finance View  
+![Finance View](Finance_View.png)  
+
+### 🤝 Customer Performance  
+![Sales View](Customer_Performance.png)  
+
+### 📦 Product Performance  
+![Marketing View](Product_Performance.png)  
+
+### 🔮 Forecast & Risk Analysis View  
+![Supply Chain View](Supply_chain view.png)
 
 ---
 
