@@ -54,7 +54,10 @@ The dashboard provides:
 ## 📎 Project Files  
 - Power BI report file (`.pbix`) – complete dashboard and data model.  
 - SQL database file (`.sql`) – original data provided as source.  
-- Power Query transformations – data cleaning and ETL steps inside Power BI.  
+- Power Query transformations – data cleaning and ETL steps inside Power BI.
+
+- 🔗 [Download Power BI Project (Google Drive)]([YOUR-LINK-HERE](https://drive.google.com/file/d/1GYlwJxiEfM2DaFqO9cdjtdxP3EQYYzD4/view?usp=sharing))
+
 
 ---
 
