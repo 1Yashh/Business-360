@@ -72,10 +72,10 @@ The dashboard provides:
 ![Sales View](Customer_Performance.png)  
 
 ### 📦 Product Performance  
-![Marketing View](Product_Performance.png)  
+![Marketing View](Product_performance.png)  
 
 ### 🔮 Forecast & Risk Analysis View  
-![Supply Chain View](Supply_chain view.png)
+![Supply Chain View](Supply_chain_view.png)
 
 ---
 
