@@ -60,6 +60,11 @@ The dashboard provides:
 
 ---
 
+> ⚙️ **Note:** Source connections in Power Query are disabled in this version for portability.  
+> The data model inside the `.pbix` file is fully functional for visualization and analysis.
+
+---
+
 ## 📊 Dashboard Preview  
 
 ### 🏠 Overview Page  
