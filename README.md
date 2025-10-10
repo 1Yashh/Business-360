@@ -135,4 +135,12 @@ I specialize in **Power BI, SQL, and Excel**, with a focus on building structure
 
 ---
 
+🧾 **Project Authenticity Note**  
+> All visuals, screenshots, and model diagrams presented in this repository are directly taken from my original Power BI project file — `Business 360.pbix`.  
+> The project was independently developed by me as part of my learning and portfolio-building journey using real-world datasets (Codebasics – AtliQ Hardware Case Study).  
+> Every element showcased here — including the Power Query transformations, relationships, and dashboard design — has been created, tested, and validated by me to reflect genuine analytical and visualization skills.  
+> 🔗 *The complete `.pbix` file is available for download in the “Project Files” section for transparency and verification.*
+
+---
+
 ⭐ *If you found this project insightful, consider giving it a star and following my journey as I continue building data analytics projects that merge clarity, logic, and storytelling.*
