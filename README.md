@@ -70,16 +70,6 @@ It includes key dimension tables (`dim_customer`, `dim_product`, `dim_market`, `
 
 ---
 
-## 📌 Assumptions & Limitations  
-
-- Dataset was provided as a **static SQL export**, not a live connection.  
-- All transformations were completed within **Power Query** in Power BI.  
-- Some fields were anonymized for confidentiality.  
-- Dashboard designed for medium-scale performance (no incremental refresh).  
-- Certain advanced optimizations (e.g., DAX Studio tuning) were not included.  
-
----
-
 ## 🚀 Future Improvements  
 
 - Establish a **live SQL database connection** for automatic data refresh.  
@@ -136,10 +126,10 @@ I specialize in **Power BI, SQL, and Excel**, with a focus on building structure
 ---
 
 🧾 **Project Authenticity Note**  
-> All visuals, screenshots, and model diagrams presented in this repository are directly taken from my original Power BI project file — `Business 360.pbix`.  
-> The project was independently developed by me as part of my learning and portfolio-building journey using real-world datasets (Codebasics – AtliQ Hardware Case Study).  
-> Every element showcased here — including the Power Query transformations, relationships, and dashboard design — has been created, tested, and validated by me to reflect genuine analytical and visualization skills.  
-> 🔗 *The complete `.pbix` file is available for download in the “Project Files” section for transparency and verification.*
+This Power BI case study was independently built by me to demonstrate a complete Business Intelligence workflow — from data import and transformation to DAX modeling and dashboard design.  
+All datasets, relationships, measures, and visuals were personally created, tested, and validated to reflect real-world analytical scenarios.  
+
+The `.pbix` file included in this repository is provided solely for portfolio demonstration and transparency of work.
 
 ---
 
