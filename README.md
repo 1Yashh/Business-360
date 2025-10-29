@@ -118,12 +118,8 @@ I specialize in **Power BI, SQL, and Excel**, with a focus on building structure
 
 💼 **Core Strengths:** Data Visualization • Power Query • Data Modeling • Analytical Storytelling  
 📍 *Rohtak, Haryana, India*  
-📧 **oneyash11@gmail.com**  
-
-🔗 **[GitHub Profile](https://github.com/11Yash1)**  
-🔗 **[LinkedIn](www.linkedin.com/in/yash-hooda-14b84b22a)**  
-
----
+📫 **Let's Connect:**  
+[LinkedIn](https://www.linkedin.com/in/yash-hooda) • [GitHub](https://github.com/1Yashh) • [Email](mailto:oneyash11@gmail.com)
 
 🧾 **Project Authenticity Note**  
 This Power BI case study was independently built by me to demonstrate a complete Business Intelligence workflow — from data import and transformation to DAX modeling and dashboard design.  
