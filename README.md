@@ -121,7 +121,7 @@ I specialize in **Power BI, SQL, and Excel**, with a focus on building structure
 📧 **oneyash11@gmail.com**  
 
 🔗 **[GitHub Profile](https://github.com/11Yash1)**  
-🔗 **[LinkedIn (Coming Soon)](https://www.linkedin.com/)**  
+🔗 **[LinkedIn (Coming Soon)](www.linkedin.com/in/yash-hooda-14b84b22a)**  
 
 ---
 
